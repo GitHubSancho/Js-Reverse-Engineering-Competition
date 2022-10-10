@@ -6,7 +6,6 @@
 
 import requests
 import base64
-from urllib.parse import quote
 
 
 def build_m(num):
